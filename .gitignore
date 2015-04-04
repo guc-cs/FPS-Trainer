@@ -1,0 +1,5 @@
+# Eclipse specific settings
+.settings/
+.project
+Debug/
+.cproject
