@@ -7,6 +7,12 @@ Introduction
 ------------
 The game is a simple First-Person Shooter, and consists mainly of one level featured in most games of this genre, which is a practice range. Targets will pop-up in various locations as the player navigates through the level, and the player is required to hit some or all of them. The player only has a fixed number ammount of ammunition and is required to reload when the gun runs low on Ammo. The score is a function of how many targets the user hits in a fixed time interval using the minimum ammount of bullets.
 
+
+<a href="http://i.imgur.com/og7SNfr.png"
+  <img src="http://i.imgur.com/og7SNfr.png" />
+</a>
+
+
 Features
 --------
 * First-Person Camera implementation
@@ -39,10 +45,6 @@ How To
   ```bash
   ./FPSTrainer
   ```
-
-<a href="http://i.imgur.com/og7SNfr.png"
-  <img src="http://i.imgur.com/og7SNfr.png" />
-</a>
 
 Controls
 --------
