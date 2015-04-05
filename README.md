@@ -68,3 +68,8 @@ Contributors
 * Ahmed Mohsen
 * Amr Tj. Wallas
 * Magued George
+
+
+License
+-------
+MIT. See [LICENSE!](/LICENSE) file for more infomration
