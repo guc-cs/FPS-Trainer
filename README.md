@@ -72,4 +72,4 @@ Contributors
 
 License
 -------
-MIT. See [LICENSE!](/LICENSE) file for more infomration
+MIT. See [LICENSE](/LICENSE) file for more infomration
